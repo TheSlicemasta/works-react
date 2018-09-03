@@ -1,0 +1,538 @@
+[
+    {
+        "id": 1,
+        "title": "КликЪ Отель",
+        "studio": "",
+        "image": "works/clickhotel/thumb.jpg",
+        "comment": "Верстка и скриптинг сайта для отельного комплекса - КликЪ Отель",
+        "groups": [
+            "All",
+            "HTML&CSS",
+            "jQuery"
+        ],
+        "created": "2011",
+        "link": "http://кликъотель.рф/",
+        "screen": [
+            "works/clickhotel/screen-1.png", 
+            "works/clickhotel/screen-2.png"
+        ],
+        "tag": "HTML&CSS, jQuery"
+    },
+    {
+        "id": 2,
+        "title": "Дуэт 20:14",
+        "studio": "",
+        "image": "works/duet2014/thumb.jpg",
+        "comment": "Верстка, скриптинг и форма обратной связи, а также размещение сайтна на хостинге клиента, для дуэта Comeny Club г. Сочи - Дуэт 20:14",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery"
+        ],
+        "created": "2013",
+        "link": "http://sochicomedy.ru/",
+        "screen": [
+            "works/duet2014/screen-1.png", 
+            "works/duet2014/screen-2.png"
+        ],
+        "tag": "HTML5&CSS3, jQuery"
+    },
+    {
+        "id": 3,
+        "title": "гостинница «Экипаж»",
+        "studio": "",
+        "image": "works/ekipaghotel/thumb.jpg",
+        "comment": "Верстка, скриптинг и форма обратной связи, а также размещение сайтна на хостинге клиента",
+        "groups": [
+            "All",
+            "HTML&CSS",
+            "jQuery"
+        ],
+        "created": "2011",
+        "link": "http://click-hotel.ru/",
+        "screen": [
+            "works/ekipaghotel/screen-1.png",
+            "works/ekipaghotel/screen-2.png"
+        ],
+        "tag": "HTML&CSS, jQuery"
+    },
+    {
+        "id": 4,
+        "title": "Toyota Highlander",
+        "studio": "1",
+        "image": "works/highlander/thumb.jpg",
+        "comment": "Верстка, параллакс и много ява скрипта, таймер с проверкой даты и показом видео...",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Parallax",
+            "Brand"
+        ],
+        "created": "2014",
+        "link": "http://highlander.toyota.ua/",
+        "screen": [
+            "works/highlander/screen-1.png"            
+        ],
+        "tag": "HTML5&CSS3, jQuery, Parallax, Brand"
+    },
+    {
+        "id": 5,
+        "title": "Письмо LoraShen",
+        "studio": "1",
+        "image": "works/lorashen/thumb.jpg",
+        "comment": "Верстка письма для рассылки. Проверенно и протестирование с помощью сервиса unisender.com",
+        "groups": [
+            "All",
+            "HTML&CSS",
+            "Mail"
+        ],
+        "created": "2014",
+        "link": "works/lorashen/index.html",
+        "screen": [
+            
+        ],
+        "tag": "HTML&CSS, Mail"
+    },
+    {
+        "id": 6,
+        "title": "Доктор Хаус",
+        "studio": "1",
+        "image": "works/doctorh/thumb.jpg",
+        "comment": "Интернет магазин запчастей к бытовой технике – Доктор Хаус. Верстка и скриптинг под 1C Bitrix, частичная натяжка компонентов и страничек.",
+        "groups": [
+            "All",
+            "HTML&CSS",
+            "jQuery",
+            "1C Bitrix"
+        ],
+        "created": "2013",
+        "link": "http://doctor-h.com.ua/",
+        "screen": [
+            "works/doctorh/screen-1.png",
+            "works/doctorh/screen-2.png",
+            "works/doctorh/screen-3.png"
+        ],
+        "tag": "HTML&CSS, jQuery, 1C Bitrix"
+    },
+    {
+        "id": 7,
+        "title": "Toyota Yaris",
+        "studio": "1",
+        "image": "works/newyaris/thumb.jpg",
+        "comment": "Верстка, параллакс, много ява скрипта...",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Parallax",
+            "Brand"
+        ],
+        "created": "2014",
+        "link": "http://newyaris.toyota.ua/",
+        "screen": [
+            "works/newyaris/screen-1.jpg"
+        ],
+        "tag": "HTML5&CSS3, jQuery, Parallax, Brand"
+    },
+    {
+        "id": 8,
+        "title": "Toyota Venza",
+        "studio": "1",
+        "image": "works/venza/thumb.png",
+        "comment": "Промо страница для нового автомобиля «Toyota Venza». Одностраничный сайт с параллакс эффектом описывает 15 основных преимуществ новой модели. Верстка, параллакс, много ява скрипта...",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Parallax",
+            "Brand"
+        ],
+        "created": "2013",
+        "link": "http://www.venza.toyota.ua/",
+        "screen": [
+            "works/venza/screen-1.png"     
+        ],
+        "tag": "HTML5&CSS3, jQuery, Parallax, Brand"
+    },
+    {
+        "id": 9,
+        "title": "Музыка Юрия Гинзбурга",
+        "studio": "",
+        "image": "works/ginzburg/thumb.png",
+        "comment": "Верстка сайта для профессионального музыканта Юрия Гинзбурна. Для iDevices сверстана отдельная стартовая, интегрированны плеер и много джс фишек - блики на главной и тд.",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery"
+        ],
+        "created": "2013",
+        "link": "http://www.audiodepot.ru/",
+        "screen": [
+            "works/ginzburg/screen-1.jpg",
+            "works/ginzburg/screen-2.jpg",
+            "works/ginzburg/screen-3.jpg",
+            "works/ginzburg/screen-4.jpg",
+            "works/ginzburg/screen-5.jpg",
+            "works/ginzburg/screen-6.jpg"            
+        ],
+        "tag": "HTML5&CSS3, jQuery"
+    },
+    {
+        "id": 10,
+        "title": "Drachenko Alexander - Online Portfolio",
+        "studio": "",
+        "image": "works/drachenko/thumb.jpg",
+        "comment": "Верстка, натяжка и размещение на хостинге сайта-портфолио 3D-художника Александра Драченко. В качестве CMS используеться CMS Made Simple",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "CMS"
+        ],
+        "created": "2010",
+        "link": "http://drachenko.com/",
+        "screen": [
+            "works/drachenko/screen-1.jpg",
+            "works/drachenko/screen-2.jpg",
+            "works/drachenko/screen-3.jpg"            
+        ],
+        "tag": "HTML5&CSS3, jQuery, CMS"
+    },
+    {
+        "id": 11,
+        "title": "m2 Сочи",
+        "studio": "",
+        "image": "works/m2sochi/thumb.jpg",
+        "comment": "Верстка сайта по продаже и аренде недвижимости «m2 Сочи»",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery"
+        ],
+        "created": "2013",
+        "link": "http://m2sochi.ru/",
+        "screen": [
+            "works/m2sochi/screen-1.jpg",
+            "works/m2sochi/screen-2.jpg",
+            "works/m2sochi/screen-3.jpg"
+        ],
+        "tag": "HTML5&CSS3, jQuery"
+    },
+    {
+        "id": 12,
+        "title": "Проект Заробитчане",
+        "studio": "1",
+        "image": "works/zarobitchany/thumb.jpg",
+        "comment": "Верстка и скриптинг для сайта оказывающего помощь трудовым мигрантам",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery"
+        ],
+        "created": "2009",
+        "link": "http://zarobitchany.org/",
+        "screen": [
+            "works/zarobitchany/screen-1.jpg",
+            "works/zarobitchany/screen-2.jpg",
+            "works/zarobitchany/screen-3.jpg"            
+        ],
+        "tag": "HTML5&CSS3, jQuery"
+    },
+    {
+        "id": 13,
+        "title": "ДонПион™",
+        "studio": "1",
+        "image": "works/donpion/thumb.jpg",
+        "comment": "Верстка, скриптинг и адаптивная верстка для интернет-магазина цветов, букетов и подарков в Киеве — ДонПион™",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "1C Bitrix",
+            "Responsive"
+        ],
+        "created": "2014",
+        "link": "http://donpion.ua/",
+        "screen": [
+            "works/donpion/screen-1.jpg",
+            "works/donpion/screen-2.jpg",
+            "works/donpion/screen-3.jpg",
+            "works/donpion/screen-4.jpg",
+            "works/donpion/screen-5.jpg",
+            "works/donpion/screen-6.jpg"            
+        ],
+        "tag": "HTML5&CSS3, jQuery, 1C Bitrix, Responsive"
+    },
+    {
+        "id": 14,
+        "title": "Designer Gregory 'Cinereo' Smirnov",
+        "studio": "",
+        "image": "works/cinereo/thumb.jpg",
+        "comment": "Верстка официального сайта дизайнера Григория 'Cinereo' Смирнова",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery"
+        ],
+        "created": "2010",
+        "link": "http://cinereo.ru/",
+        "screen": [
+            "works/cinereo/screen-1.jpg",
+            "works/cinereo/screen-2.jpg"     
+        ],
+        "tag": "HTML5&CSS3, jQuery"
+    },
+    {
+        "id": 15,
+        "title": "TecLot.com",
+        "studio": "1",
+        "image": "works/teclot/thumb.jpg",
+        "comment": "Верстка и скриптинг на основе Bootstrap v3 сайта TecLot.com",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Bootstrap"
+        ],
+        "created": "2014",
+        "link": "http://www.teclot.com/",
+        "screen": [
+            "works/teclot/screen-1.jpg",
+            "works/teclot/screen-2.jpg",
+            "works/teclot/screen-3.jpg"            
+        ],
+        "tag": "HTML5&CSS3, jQuery, Bootstrap"
+    },
+    {
+        "id": 16,
+        "title": "Lexus NX",
+        "studio": "1",
+        "image": "works/lexusnx/thumb.jpg",
+        "comment": "Верстка и скриптинг промо сайта Lexus NX",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Brand"
+        ],
+        "created": "2014",
+        "link": "http://nx.lexus.ua/",
+        "screen": [
+            "works/lexusnx/screen-1.jpg"
+        ],
+        "tag": "HTML5&CSS3, jQuery, Brand"
+    },
+    {
+        "id": 17,
+        "title": "Киевский дельфинарий «Немо»",
+        "studio": "1",
+        "image": "works/nemokiev/thumb.jpg",
+        "comment": "Верстка и скриптинг официального сайта Киевского дельфинария «Немо»",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery"
+        ],
+        "created": "2013",
+        "link": "http://nemokiev.com/",
+        "screen": [
+            "works/nemokiev/screen-1.jpg",
+            "works/nemokiev/screen-2.jpg"
+        ],
+        "tag": "HTML5&CSS3, jQuery"
+    },
+    {
+        "id": 18,
+        "title": "Розквітай з Toyota",
+        "studio": "1",
+        "image": "works/toyota-rozkvitay/thumb.jpg",
+        "comment": "Верстка и скриптинг весеннего промо-проекта от Toyota",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Brand"
+        ],
+        "created": "2013",
+        "link": "http://rozkvitay.toyota.ua/",
+        "screen": [
+            "works/toyota-rozkvitay/screen-1.jpg",
+            "works/toyota-rozkvitay/screen-2.jpg"
+        ],
+        "tag": "HTML5&CSS3, jQuery, Brand"
+    },
+    {
+        "id": 19,
+        "title": "Стань зіркою Toyota",
+        "studio": "1",
+        "image": "works/toyota-star/thumb.jpg",
+        "comment": "Верстка и скриптинг промо-проекта от Toyota",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Brand"
+        ],
+        "created": "2013",
+        "link": "http://star.toyota.ua/",
+        "screen": [
+            "works/toyota-star/screen-1.jpg",
+            "works/toyota-star/screen-2.jpg"
+        ],
+        "tag": "HTML5&CSS3, jQuery, Brand"
+    },
+    {
+        "id": 20,
+        "title": "Агентство недвижимости «Южная столица»",
+        "studio": "",
+        "image": "works/ys-realty/thumb.png",
+        "comment": "Верстка и скриптинг",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery"
+        ],
+        "created": "2013",
+        "link": "http://www.ys-realty.ru/",
+        "screen": [
+            "works/ys-realty/screen-1.png",
+            "works/ys-realty/screen-2.png"
+        ],
+        "tag": "HTML5&CSS3, jQuery"
+    },
+    {
+        "id": 21,
+        "title": "Авто твоєї мрії",
+        "studio": "1",
+        "image": "works/dreamcar/thumb.jpg",
+        "comment": "Верстка и скриптинг промо-проекта от Toyota",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Brand"
+        ],
+        "created": "2016",
+        "link": "http://dreamcar.toyota.ua/",
+        "screen": [
+            "works/dreamcar/screen-1.png",
+            "works/dreamcar/screen-2.png"            
+        ],
+        "tag": "HTML5&CSS3, jQuery, Brand"
+    },
+    {
+        "id": 22,
+        "title": "Toyota Camry",
+        "studio": "1",
+        "image": "works/toyota-camry/thumb.jpg",
+        "comment": "Верстка и скриптинг промо-проекта от Toyota",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Parallax",
+            "Brand"
+        ],
+        "created": "2014",
+        "link": "http://camry.toyota.ua/",
+        "screen": [
+            "works/toyota-camry/screen-1.jpg",
+            "works/toyota-camry/screen-2.jpg",
+            "works/toyota-camry/screen-3.jpg",
+            "works/toyota-camry/screen-4.jpg"            
+        ],
+        "tag": "HTML5&CSS3, jQuery, Parallax, Brand"
+    },
+    {
+        "id": 23,
+        "title": "Marker: Art & Hobby",
+        "studio": "1",
+        "image": "works/artmarker/thumb.jpg",
+        "comment": "Верстка, скриптинг на 1C Bitrix для интернет-магазина — Artmarker.ru",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "1C Bitrix"
+        ],
+        "created": "2014",
+        "link": "http://artmarker.ru/",
+        "screen": [
+            "works/artmarker/screen-1.jpg",
+            "works/artmarker/screen-2.jpg"            
+        ],
+        "tag": "HTML5&CSS3, jQuery, 1C Bitrix"
+    },
+    {
+        "id": 24,
+        "title": "FA - файний день",
+        "studio": "1",
+        "image": "works/fa/thumb.jpg",
+        "comment": "Адаптивная верстка для промоакции от FA",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Responsive",
+            "Brand"
+        ],
+        "created": "2016",
+        "link": "http://fa-day.com.ua/",
+        "screen": [
+            "works/fa/screen-1.jpg",
+            "works/fa/screen-2.jpg" 
+        ],
+        "tag": "HTML5&CSS3, jQuery, Responsive, Brand"
+    },
+    {
+        "id": 25,
+        "title": "Горчица",
+        "studio": "0",
+        "image": "works/garchica.dev/thumb.jpg",
+        "comment": "Адаптивная верстка и скрипты валидации форм, эффектов для PR &mdash; Агенства &laquo;Горчица&raquo;",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Responsive"
+        ],
+        "created": "2017",
+        "link": "http://якодер.рф/works/garchica.dev/",
+        "screen": [
+             
+        ],
+        "tag": "HTML5&CSS3, jQuery, Responsive"
+    },
+    {
+        "id": 26,
+        "title": "MDB",
+        "studio": "0",
+        "image": "works/mdb/thumb.jpg",
+        "comment": "Адаптивная верстка и скрипты для B2B площадки &laquo;MDB&raquo;",
+        "groups": [
+            "All",
+            "HTML5&CSS3",
+            "jQuery",
+            "Responsive",
+            "Bootstrap"
+        ],
+        "created": "2016",
+        "link": "http://якодер.рф/works/mdb/",
+        "screen": [
+             
+        ],
+        "tag": "HTML5&CSS3, jQuery, Responsive, Bootstrap"
+    }
+
+
+
+
+
+
+
+
+
+
+
+] 
